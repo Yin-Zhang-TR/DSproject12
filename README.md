@@ -5,16 +5,16 @@ https://docs.google.com/document/d/1ukxB4uI04OOziNmmp8GzH3HQNXVdSmLxbXU6CvfXmUQ/
   3.6 ; Twitter account! -- Got my twitter account approved. Will Start coding from today (10/10/2018)  (Akshata Bhat)
   Collected Twitter Data from Home Profile using oAuth <br> 
   
-  -( 05- 07/ Oct/ 2018) Ching-Han (Helen) <br>
+  -- ( 05- 07/ Oct/ 2018) Ching-Han (Helen) <br>
     Received Twitter Dev account and started testing data crawl through Twitter API. <br>
-  -(Keyword, Geolocation, Specific user’s post) <br>
+  -- (Keyword, Geolocation, Specific user’s post) <br>
     ( 12- 13/ Oct/ 2018) Ching-Han (Helen) <br>
-  -Collected data from News website ( The Herald, The Scotsman, BBC Scotland) <br>
+  -- Collected data from News website ( The Herald, The Scotsman, BBC Scotland) <br>
 	  Date type: (Title, URL, Content) <br>
 	  Date Storage: Waiting for MongoDB link to store the data for now. <br>
-  -( 23/ Oct/ 2018) Ching-Han (Helen) <br>
+  -- ( 23/ Oct/ 2018) Ching-Han (Helen) <br>
     Updated the  news crawler of BBC Scotland (fix some bugs) <br>
-  -(29-30/ Oct/ 2018) Ching-Han (Helen) <br>
+  -- (29-30/ Oct/ 2018) Ching-Han (Helen) <br>
     Updated the news crawl of The Herald. <br>
       1. Added new valuable (Title, Time, URL, Content) <br>
       2. Filter only top 5 sentences of news contents. <br>
@@ -22,7 +22,7 @@ https://docs.google.com/document/d/1ukxB4uI04OOziNmmp8GzH3HQNXVdSmLxbXU6CvfXmUQ/
     In process <br>
       automatically collect data every 6 hours. <br>
       update other two channels (The Scotsman, BBC Scotland) <br>
-  -(06-07/ Nov/ 2018) Ching-Han (Helen) <br>
+  -- (06-07/ Nov/ 2018) Ching-Han (Helen) <br>
 		 Updated the news crawl of The Herald, The Scotsman, BBC Scotland. <br>
   
 - Database modelling - initial draft - (Yin) - MongoDB <br> 
