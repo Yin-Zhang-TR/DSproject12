@@ -4,6 +4,7 @@ https://docs.google.com/document/d/1ukxB4uI04OOziNmmp8GzH3HQNXVdSmLxbXU6CvfXmUQ/
 - Data crawl - architecture;  Akshata/Ching-Han (Helen) <br> 
   3.6 ; Twitter account! -- Got my twitter account approved. Will Start coding from today (10/10/2018)  (Akshata Bhat)
   Collected Twitter Data from Home Profile using oAuth <br> 
+  
   -( 05- 07/ Oct/ 2018) Ching-Han (Helen) <br>
     Received Twitter Dev account and started testing data crawl through Twitter API. <br>
   -(Keyword, Geolocation, Specific user’s post) <br>
